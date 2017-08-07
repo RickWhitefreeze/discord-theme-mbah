@@ -1,0 +1,258 @@
+
+/*---------------------------------------------------*/
+
+
+
+/*---------------------------------------------------*/
+
+.guilds-wrapper{
+	width:50px;
+    background-color:blue-green;
+}
+
+.guilds-wrapper .guilds{
+	padding-top:10px;
+}
+
+.guilds-wrapper .scroller-wrap{
+    width:68px;
+}
+
+.guilds-wrapper .guilds .friends-icon{
+    width:30px;
+    height:30px;
+    background-size: 28px 28px;
+}
+
+.guilds-wrapper .guilds .friends-online{
+	display:none;
+    //font-size:8px;
+    //width:30px;
+}
+
+.guilds-wrapper .guild-separator{
+	width:50px;
+    margin-left:-10px;
+}
+
+.guilds-wrapper .guilds .guild{
+	width:30px;
+    height:30px;
+}
+
+.guilds-wrapper .guilds .guild .guild-inner {
+	line-height:30px;
+    border-radius:15px;
+}
+
+.guilds-wrapper .guilds .guild .guild-inner a {
+	width:30px;
+    height:30px;
+    background-size: 30px 30px;
+}
+
+.guilds-wrapper .guilds-add{
+	font-size:25px;
+    line-height:100%;   
+}
+
+/*---------------------------------------------------*/
+
+
+
+/*---------------------------------------------------*/
+
+.channels-wrap{
+	width:344px;   
+}
+
+.header-1tSljs{
+	height:51px;   
+}
+
+.wrapperDefault-1Dl4SS{
+	padding:16px;
+    height:0px;
+    margin-bottom:0px !important;
+ 
+}
+
+
+
+.container-iksrDt{
+    margin:10px;
+    border-radius:3px;
+}
+
+.container-iksrDt .avatar-small{
+    width:50px;
+    height:50px;
+    background-size:50px 50px;
+}
+
+.accountDetails-15i-_e .username {
+	max-width:180px;
+}
+
+/*---------------------------------------------------*/
+
+
+
+/*---------------------------------------------------*/
+
+.theme-dark .messages-wrapper{
+    background-color:black;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+}
+
+.chat .divider{
+	margin:20px;
+}
+
+.chat .divider span{
+    background-color:black !important;
+    border:thin solid #474a4f;
+	border-radius:0px;   
+    //color:white !important;
+}
+
+.message-group{
+	padding:2px;
+    margin-left:0px;
+    border-bottom:none;
+}
+
+.message-group .avatar-large{
+	visibility:hidden;
+    width:0px;
+}
+
+.theme-dark .message-group h2 span {
+	//color:green;
+    font-weight:900;
+    line-height:1.5em;
+    letter-spacing:1.1px;
+}
+
+.user-name{
+	background-color:#272727;
+    padding:4px;
+    font-weight:900 !important;
+    letter-spacing:1.2px !important;
+
+}
+
+.embed-wrapper, .embed-inline, .attachment-image, .invite-button {
+	margin:10px 40px !important;   
+}
+
+.reactions{
+    display:none;
+    margin-top:0px;
+}
+
+.theme-dark .message-group .comment .markup:hover{
+	background-color:blue;
+    color:white;
+}
+
+.theme-dark .message-group .comment .markup{
+	letter-spacing:1.1px;
+    padding:1px 0;
+    color:green;
+    font-size:.7em;
+    line-height:.9em;
+    font-weight:900 !important;
+    margin-left:20px;
+}
+
+.comment .username-wrapper:before{
+    content:"> ";
+}
+
+/*---------------------------------------------------*/
+
+
+
+/*---------------------------------------------------*/
+
+
+.scroller-wrap ::-webkit-scrollbar-thumb{
+	background-color:green !important;
+    border-radius:0px !important;
+    border-color:green !important;
+}
+
+.scroller-wrap ::-webkit-scrollbar-track-piece{
+    border:0px solid black !important;
+    background-color:black !important;
+}
+
+
+/*---------------------------------------------------*/
+
+
+
+/*---------------------------------------------------*/
+
+.content, .chat{
+	background-color:black !important;  
+}
+
+.chat form{
+	border-top:none !important;   
+    
+}
+
+.channel-text-area-default{
+
+    border-bottom:1px solid green;
+}
+
+.inner-3if5cm{
+	background-color:rgba(0,0,0,0) !important;    
+    
+}
+
+/*---------------------------------------------------*/
+
+
+
+/*---------------------------------------------------*/
+
+.chat>.title-wrap{
+ 	min-height:51px;
+}
+
+.channel-members-wrap{
+	display:none;
+}
+
+/*---------------------------------------------------*/
+
+
+
+/*---------------------------------------------------*/
+
+.theme-dark #friends .friends-header{
+ 	height:55px;
+    background-color:black;
+}
+
+.friends-table{
+    background-color:black !important;
+	margin:0px !important;
+}
+
+.friends-column-name .avatar-small{
+    width:50px;
+    height:50px;
+    background-size:50px 50px;
+    //border-radius:2px;
+}
+
+/*---------------------------------------------------*/
+
+
+
+/*---------------------------------------------------*/
